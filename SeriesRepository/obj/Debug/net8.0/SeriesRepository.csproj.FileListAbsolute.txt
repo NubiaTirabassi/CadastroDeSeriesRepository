@@ -1,0 +1,14 @@
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\bin\Debug\net8.0\SeriesRepository.exe
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\bin\Debug\net8.0\SeriesRepository.deps.json
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\bin\Debug\net8.0\SeriesRepository.runtimeconfig.json
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\bin\Debug\net8.0\SeriesRepository.dll
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\bin\Debug\net8.0\SeriesRepository.pdb
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.AssemblyInfoInputs.cache
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.AssemblyInfo.cs
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.csproj.CoreCompileInputs.cache
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.dll
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\refint\SeriesRepository.dll
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.pdb
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\SeriesRepository.genruntimeconfig.cache
+c:\Users\nurag\OneDrive\Área de Trabalho\Cadastro de séries em .NET\SeriesRepository\obj\Debug\net8.0\ref\SeriesRepository.dll
